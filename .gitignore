@@ -4,3 +4,4 @@ CMakeCache.txt
 c-echo-count
 cmake_install.cmake
 test
+a.out
